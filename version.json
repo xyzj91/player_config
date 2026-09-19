@@ -1,0 +1,15 @@
+{
+  "versionCode": 2,
+  "versionName": "0.2.0",
+  "downloadUrl": "https://github.com/xyzj91/LeboPlayer/releases/download/v0.2.0/lebo-0.2.0.apk",
+  "publishedAt": "2026-09-19",
+  "forceUpdate": false,
+  "releaseNotes": [
+    "新增「设置」页：版本检测与清除缓存",
+    "版本检测支持启动自动检查与手动检查，支持应用内直接下载安装新版本",
+    "清除缓存现在能一并清掉视频播放缓存与封面图缓存，已下载的剧集不受影响",
+    "电视直播：页头星标改为收藏频道列表，收藏按频道单独记忆",
+    "详情页交互与空状态插画对齐参考设计",
+    "修复横屏播放页部分面板与顶栏图标的遮挡问题"
+  ]
+}
